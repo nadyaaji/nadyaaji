@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3>Hi 👋,</h3>
+<p>Saya Nadya, seorang Developer UI/UX dari Indonesia!</p>
 
-<!--
-**nadyaaji/nadyaaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Perkenalkan,
+- 🔭 Saya seorang mahasiswi S1 Teknik Biomedis Universitas Gadjah Mada
+- 🌱 Senang belajar desain UI/UX
+- 👯 Tertarik dengan sentiment analysis 
+- ⚡ Asal Indonesia
 
-Here are some ideas to get you started:
+#### Stats:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- thropy -->
+<a href="https://nadyaaji.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=nadyaaji&column=7&theme=onedark"/>
+    </p>
+</a>
+
+<!-- status codes -->
+<a align="center" href="https://nadyaaji.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nadyaaji&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+    </p>
+</a>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=nadyaaji&color=brightgreen&style=flat-square" alt="profile_views"/>
+</p>
