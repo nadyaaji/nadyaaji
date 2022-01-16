@@ -1,4 +1,4 @@
-<h3>Hi 👋,</h3>
+<h3>Hi 👋</h3>
 <p>Saya Nadya, seorang Developer UI/UX dari Indonesia!</p>
 
 #### Perkenalkan,
@@ -6,6 +6,12 @@
 - 🌱 Senang belajar desain UI/UX
 - 👯 Tertarik dengan sentiment analysis 
 - ⚡ Asal Indonesia
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.instagram.com/nadyaji_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/nadya-aji-salsabilla-03ba921b7"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 #### Stats:  
 
