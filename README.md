@@ -8,6 +8,7 @@
 - ⚡ Asal Indonesia
 
 ## Projects:
+Lihat apa yang sudah saya kerjakan di sini!✨
 <p align="left">
 <a href = "https://trusted-mimosa-316.notion.site/Welcome-a2054171d22a4dc5a4c57f438221ba1d"><img src="https://img.icons8.com/fluent/48/000000/notion.png"/></a>
 </p>
