@@ -7,11 +7,15 @@
 - 👯 Tertarik dengan sentiment analysis 
 - ⚡ Asal Indonesia
 
+## Projects:
+<p align="left">
+<a href = "https://trusted-mimosa-316.notion.site/Welcome-a2054171d22a4dc5a4c57f438221ba1d"><img src="https://img.icons8.com/fluent/48/000000/notion.png"/></a>
+</p>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/nadyaji_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/nadya-aji-salsabilla-03ba921b7"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://trusted-mimosa-316.notion.site/Welcome-a2054171d22a4dc5a4c57f438221ba1d"><img src="https://img.icons8.com/fluent/48/000000/notion.png"/></a>
 </p>
 
 #### Stats:  
