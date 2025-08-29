@@ -1,0 +1,11 @@
+# Biopotential Amplifier for Lung Sound Signal
+
+This project is a **biopotential amplifier circuit** designed to acquire and analyze lung sound signals.  
+It combines **analog circuit design, PCB prototyping, Arduino firmware (C), and Python-based signal processing** to build a working prototype for biomedical signal acquisition.  
+
+Key results:
+- Gain ≈ 12  
+- Bandwidth: 80–2000 Hz  
+- CMRR: 70 dB  
+
+📂 Includes PCB design files, circuit schematics, firmware code, and Python scripts for signal analysis.  
